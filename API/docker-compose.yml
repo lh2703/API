@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  minha-api:
+    build: .
+    ports:
+      - "${PORT}:${PORT}"
+    env_file:
+      - .env
