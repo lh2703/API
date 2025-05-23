@@ -1,5 +1,5 @@
 # 📋 **Descrição**
-Aplicação JavaScript/Node dockerizada que extrai conteúdo RSS do portal IGN, armazena em um bucket AWS S3 e exibe as notícias em uma página HTML.
+API em JavaScript dockerizada que extrai conteúdo RSS do portal IGN, armazena em um bucket AWS S3 e exibe as notícias em uma página HTML.
 
 Essa aplicação foi desenvolvida em equipe.
 
